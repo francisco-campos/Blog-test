@@ -9,5 +9,5 @@
     esta tarea pueden seguir el siguiente tutorial: http://railsapps.github.io/installing-rails.html</p>
 </li>
 <li>
-    <p>Paso 2: creación de controladores...</p>
+    <p>Paso 2: creación de controladores...</p> 
 </li>
