@@ -1,0 +1,15 @@
+<h1>Bienvenido!</h1>
+<p>Esta es la portada de nuestro blog.</p>
+<%
+arregloNumeral = [1,2,3,4]
+numMayor = 0
+%>
+<%= arregloNumeral %>
+<% arregloNumeral.each do |number| 
+	numMayor = number;
+%>
+	<p>Número: <%= number %>
+
+<%end%>
+
+<br> <%= "El número más alto es: #{numMayor} " %>
