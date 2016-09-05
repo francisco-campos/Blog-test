@@ -1,6 +1,5 @@
-# README
+# Creando un blog con Ruby on Rails
 
-<h1>Creando un blog con Ruby on Rails</h1>
 
 <ul>
 
